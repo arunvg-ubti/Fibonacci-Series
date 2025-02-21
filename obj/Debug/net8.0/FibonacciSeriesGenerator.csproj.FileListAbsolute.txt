@@ -1,0 +1,15 @@
+C:\Assignments\FibonacciSeriesGenerator\bin\Debug\net8.0\FibonacciSeriesGenerator.exe
+C:\Assignments\FibonacciSeriesGenerator\bin\Debug\net8.0\FibonacciSeriesGenerator.deps.json
+C:\Assignments\FibonacciSeriesGenerator\bin\Debug\net8.0\FibonacciSeriesGenerator.runtimeconfig.json
+C:\Assignments\FibonacciSeriesGenerator\bin\Debug\net8.0\FibonacciSeriesGenerator.dll
+C:\Assignments\FibonacciSeriesGenerator\bin\Debug\net8.0\FibonacciSeriesGenerator.pdb
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.AssemblyInfoInputs.cache
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.AssemblyInfo.cs
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.csproj.CoreCompileInputs.cache
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.sourcelink.json
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.dll
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\refint\FibonacciSeriesGenerator.dll
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.pdb
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\FibonacciSeriesGenerator.genruntimeconfig.cache
+C:\Assignments\FibonacciSeriesGenerator\obj\Debug\net8.0\ref\FibonacciSeriesGenerator.dll
