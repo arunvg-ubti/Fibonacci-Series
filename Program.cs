@@ -13,24 +13,37 @@ string num=Console.ReadLine()!;
 //Converting to string to int datatype
 int n=int.Parse(num);
 
-//if the input is valid condition
-if(n>0)
+//try block
+try
 {
-    Console.WriteLine("The Fibonacci Series is: ");
-    Console.WriteLine(a);
-    Console.WriteLine(b);
-    for(int i=2;i<n;i++)
+    if(n>0)
     {
-        int c=a+b;
-        Console.WriteLine(c);
-        a=b;
-        b=c;
+        Console.WriteLine("The Fibonacci Series is: ");
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+        for(int i=2;i<n;i++)
+        {
+            int c=a+b;
+            Console.WriteLine(c);
+            a=b;
+            b=c;
+        }
+    //fetches the fibonacci series if input is valid
     }
-//fetches the fibonacci series if input is valid
+    else
+    {
+        throw new Exception("Invalid Input"); //throw statement -> throws an exception to catch block in case of errors
+    }
 }
 
-//handles invalid input
-else
+//catch block for exception handling
+catch(Exception e)
 {
-    Console.WriteLine("Invalid Input");
+    Console.WriteLine(e.Message);
+}
+
+//finally block which gets executed irrespective of whether an exception is thrown or not
+finally
+{
+    Console.WriteLine("The execution has been completed.");
 }
