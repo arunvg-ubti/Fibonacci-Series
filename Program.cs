@@ -13,6 +13,7 @@ string num=Console.ReadLine()!;
 //Converting to string to int datatype
 int n=int.Parse(num);
 
+
 //try block
 try
 {
